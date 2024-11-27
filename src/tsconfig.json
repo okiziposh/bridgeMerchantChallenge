@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "jsx": "react-native", // Enables JSX for React Native
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "strict": true,
+      "target": "esnext"
+    }
+  }
+  
